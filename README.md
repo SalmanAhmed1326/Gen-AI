@@ -1,6 +1,4 @@
-Here is a draft of a README file for showcasing the Generative AI projects you've worked on:
 
----
 
 # Generative AI Projects Showcase
 
