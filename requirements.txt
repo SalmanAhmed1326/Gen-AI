@@ -1,0 +1,14 @@
+torch
+transformers
+diffusers
+googletrans==3.1.0a0
+matplotlib
+opencv-python
+pandas
+numpy
+sentence-transformers
+langchain
+chromadb
+PyPDF2
+huggingface_hub
+tqdm
