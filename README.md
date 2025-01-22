@@ -1,8 +1,8 @@
 
 
-# Generative AI Projects Showcase
+# Generative AI Projects 
 
-This repository highlights various projects implemented using Generative AI frameworks and libraries, showcasing diverse use cases like text-to-image generation, language translation, and question-answering with large language models (LLMs).
+This repository highlights various projects implemented using Generative AI frameworks and libraries, showcasing diverse use cases like text-to-image generation, language translation, and question-answering with large language models (LLMs).For some Projects I have added the description but may be I am going to add more projects in future...
 
 ## Table of Contents
 
